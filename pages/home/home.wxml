@@ -1,0 +1,7 @@
+<!--pages/home/home.wxml-->
+<text class="title">Hello World</text>
+<text>mpvue</text>
+<text>uniapp</text>
+
+<image src="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=2032800454,3840637833&fm=11&gp=0.jpg" ></image>
+<button size="mini">点击登录</button>
